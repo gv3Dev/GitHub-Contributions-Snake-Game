@@ -1,4 +1,4 @@
-# GitHub Contributions Snake
+# GitHub Contributions Snake 🐍🍎
 
 
 

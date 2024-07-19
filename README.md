@@ -2,6 +2,8 @@
 
 <img src="https://github.com/gv3Dev/GitHub-Contributions-Snake-Game/blob/main/contribSnake.png?raw=true"/>
 
+#### Please note that this script is not finished & requires more work. It was just a quick little project cuz I was bored. However, it is usable & fully functional, it just isn't at it's best. (yet) :) <br/>
+
 This repository contains a JavaScript implementation of a Snake game that can be played on the GitHub contributions grid. The script automatically sets up the game, and the snake can be controlled using the arrow keys. The snake aims to eat the food that appears on the grid, growing in length with each piece of food consumed.
 
 ## Features
